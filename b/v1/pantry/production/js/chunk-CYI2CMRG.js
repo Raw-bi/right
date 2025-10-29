@@ -1,6 +1,6 @@
 // src/package.ts
-var g = `https://vnwb8wxvjr4inj.the.bi/char/berg/v1`;
-var i = "https://vnwb8wxvjr4inj.the.bi";
+var g = `https://mississippi.river.to/right/b/v1`;
+var i = "https://mississippi.river.to";
 var u = (c = "production") => {
   const a = (s) => `${g}/${s}/${c}/js/client.module.js`;
   return {
