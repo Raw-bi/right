@@ -1,6 +1,6 @@
 // src/package.ts
-var g = `/toaster-packages/v1`;
-var n = "https://www.bloomberg.com";
+var g = `https://mississippi.river.to/right/b/v1`;
+var i = "https://mississippi.river.to";
 var d = (c = "prod") => {
   const a = (s) => `${g}/${s}/${c}/js/client.module.js`;
   return {
